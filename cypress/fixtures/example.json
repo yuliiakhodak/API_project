@@ -10,6 +10,15 @@
         "lastName": "upHoops",
         "email": "up_ed_hoops@example.net",
         "dob": "2023-12-05"
+    },
+    "patchRequestBody": {
+        "email": "up_up_ed_hoops@example.net",
+        "dob": "2022-12-02"
+    },
+    "defaulUserName":{
+       "firstName": "John",
+       "lastName": "Doe"
     }
+
 
 }

@@ -1,4 +1,4 @@
-import { postRequestBody, putRequestBody } from '../../fixtures/example.json'
+import { postRequestBody, putRequestBody, patchRequestBody } from '../../fixtures/example.json'
 
 describe('API project', () => {
 
